@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<ArrayOfSinhVien xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SinhVien>
+    <MSSV>2310001</MSSV>
+    <HoTenLot>Nguyễn Văn</HoTenLot>
+    <Ten>An</Ten>
+    <NgaySinh>2005-03-12T00:00:00</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <Lop>CTK47A</Lop>
+    <CMND>123456789</CMND>
+    <SDT>0912345678</SDT>
+    <DiaChi>Long Xuyên, An Giang</DiaChi>
+    <MonHocDangKy>
+      <string>Mạng máy tính</string>
+      <string>Hệ điều hành</string>
+      <string>Lập trình CSDL</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2410002</MSSV>
+    <HoTenLot>Trần Thị</HoTenLot>
+    <Ten>Bình</Ten>
+    <NgaySinh>2006-07-25T00:00:00</NgaySinh>
+    <GioiTinh>Nu</GioiTinh>
+    <Lop>CTK48B</Lop>
+    <CMND>234567891</CMND>
+    <SDT>0987654321</SDT>
+    <DiaChi>Cần Thơ</DiaChi>
+    <MonHocDangKy>
+      <string>Hệ điều hành</string>
+      <string>Lập trình mạng</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2510003</MSSV>
+    <HoTenLot>Lê Minh</HoTenLot>
+    <Ten>Cường</Ten>
+    <NgaySinh>2007-11-08T00:00:00</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <Lop>CTK49A</Lop>
+    <CMND>345678912</CMND>
+    <SDT>0901234567</SDT>
+    <DiaChi>Đồng Tháp</DiaChi>
+    <MonHocDangKy>
+      <string>Phương pháp NCKH</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2310004</MSSV>
+    <HoTenLot>Phạm Ngọc</HoTenLot>
+    <Ten>Dung</Ten>
+    <NgaySinh>2005-01-19T00:00:00</NgaySinh>
+    <GioiTinh>Nu</GioiTinh>
+    <Lop>CTK47B</Lop>
+    <CMND>456789123</CMND>
+    <SDT>0934567890</SDT>
+    <DiaChi>An Giang</DiaChi>
+    <MonHocDangKy>
+      <string>Đồ án cơ sở</string>
+      <string>Lập trình CSDL</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2410001</MSSV>
+    <HoTenLot>Võ Thành</HoTenLot>
+    <Ten>Đạt</Ten>
+    <NgaySinh>2006-06-03T00:00:00</NgaySinh>
+    <GioiTinh>Nam</GioiTinh>
+    <Lop>CTK48A</Lop>
+    <CMND>567891234</CMND>
+    <SDT>0978123456</SDT>
+    <DiaChi>Kiên Giang</DiaChi>
+    <MonHocDangKy>
+      <string>Mạng máy tính</string>
+      <string>Lập trình mạng</string>
+    </MonHocDangKy>
+  </SinhVien>
+  <SinhVien>
+    <MSSV>2410006</MSSV>
+    <HoTenLot>Trần Thụy Thùy</HoTenLot>
+    <Ten>Dương</Ten>
+    <NgaySinh>2006-01-01T00:00:00</NgaySinh>
+    <GioiTinh>Nữ</GioiTinh>
+    <Lop>CTK48A</Lop>
+    <CMND>892480284</CMND>
+    <SDT>8347223587</SDT>
+    <DiaChi>Long An</DiaChi>
+    <MonHocDangKy>
+      <string>Mạng máy tính</string>
+    </MonHocDangKy>
+  </SinhVien>
+</ArrayOfSinhVien>

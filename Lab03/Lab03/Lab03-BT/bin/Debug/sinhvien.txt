@@ -1,0 +1,5 @@
+﻿2310001|Nguyễn Văn|An|12/03/2005|Nam|CTK47A|123456789|0912345678|Long Xuyên, An Giang|Mạng máy tính;Hệ điều hành;Lập trình CSDL
+2410002|Trần Thị|Bình|25/07/2006|Nu|CTK48B|234567891|0987654321|Cần Thơ|Hệ điều hành;Lập trình mạng
+2510003|Lê Minh|Cường|08/11/2007|Nam|CTK49A|345678912|0901234567|Đồng Tháp|Phương pháp NCKH;An toàn và bảo mật hệ thống
+2310004|Phạm Ngọc|Dung|19/01/2005|Nu|CTK47B|456789123|0934567890|An Giang|Đồ án cơ sở;Lập trình CSDL
+2410001|Võ Thành|Đạt|03/06/2006|Nam|CTK48A|567891234|0978123456|Kiên Giang|Mạng máy tính;Lập trình mạng

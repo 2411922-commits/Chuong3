@@ -1,0 +1,7 @@
+Z:\Lab03\HDTH_Bai3\obj\Debug\HDTH_Bai3.csprojAssemblyReference.cache
+Z:\Lab03\HDTH_Bai3\obj\Debug\HDTH_Bai3.csproj.CoreCompileInputs.cache
+Z:\Lab03\HDTH_Bai3\bin\Debug\HDTH_Bai3.exe.config
+Z:\Lab03\HDTH_Bai3\bin\Debug\HDTH_Bai3.exe
+Z:\Lab03\HDTH_Bai3\bin\Debug\HDTH_Bai3.pdb
+Z:\Lab03\HDTH_Bai3\obj\Debug\HDTH_Bai3.exe
+Z:\Lab03\HDTH_Bai3\obj\Debug\HDTH_Bai3.pdb

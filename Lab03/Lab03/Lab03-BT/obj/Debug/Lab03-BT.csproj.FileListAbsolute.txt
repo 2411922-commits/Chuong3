@@ -1,0 +1,22 @@
+D:\Desktop thực hành\Lab03\Lab03-BT\bin\Debug\Lab03-BT.exe.config
+D:\Desktop thực hành\Lab03\Lab03-BT\bin\Debug\Lab03-BT.exe
+D:\Desktop thực hành\Lab03\Lab03-BT\bin\Debug\Lab03-BT.pdb
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03-BT.csproj.AssemblyReference.cache
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03_BT.Form1.resources
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03_BT.Properties.Resources.resources
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03-BT.csproj.GenerateResource.cache
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03-BT.csproj.CoreCompileInputs.cache
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03-BT.exe
+D:\Desktop thực hành\Lab03\Lab03-BT\obj\Debug\Lab03-BT.pdb
+D:\Desktop thực hành\Lab03\Lab03-BT\bin\Debug\sinhvien.txt
+D:\Desktop TH\Lab03\Lab03-BT\bin\Debug\sinhvien.txt
+D:\Desktop TH\Lab03\Lab03-BT\bin\Debug\Lab03-BT.exe.config
+D:\Desktop TH\Lab03\Lab03-BT\bin\Debug\Lab03-BT.exe
+D:\Desktop TH\Lab03\Lab03-BT\bin\Debug\Lab03-BT.pdb
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03-BT.csproj.AssemblyReference.cache
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03_BT.Form1.resources
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03_BT.Properties.Resources.resources
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03-BT.csproj.GenerateResource.cache
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03-BT.csproj.CoreCompileInputs.cache
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03-BT.exe
+D:\Desktop TH\Lab03\Lab03-BT\obj\Debug\Lab03-BT.pdb

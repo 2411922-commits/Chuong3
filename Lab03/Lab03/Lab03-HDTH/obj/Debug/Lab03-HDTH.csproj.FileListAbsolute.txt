@@ -1,0 +1,26 @@
+Z:\Lab03\Lab03-HDTH\bin\Debug\Lab03-HDTH.exe.config
+Z:\Lab03\Lab03-HDTH\bin\Debug\Lab03-HDTH.exe
+Z:\Lab03\Lab03-HDTH\bin\Debug\Lab03-HDTH.pdb
+Z:\Lab03\Lab03-HDTH\bin\Debug\Newtonsoft.Json.dll
+Z:\Lab03\Lab03-HDTH\bin\Debug\Newtonsoft.Json.xml
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csprojAssemblyReference.cache
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03_HDTH.Form1.resources
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03_HDTH.Properties.Resources.resources
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.GenerateResource.cache
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.CoreCompileInputs.cache
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.CopyComplete
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.exe
+Z:\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.pdb
+D:\Desktop thực hành\Lab03\Lab03-HDTH\bin\Debug\Lab03-HDTH.exe.config
+D:\Desktop thực hành\Lab03\Lab03-HDTH\bin\Debug\Lab03-HDTH.exe
+D:\Desktop thực hành\Lab03\Lab03-HDTH\bin\Debug\Lab03-HDTH.pdb
+D:\Desktop thực hành\Lab03\Lab03-HDTH\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop thực hành\Lab03\Lab03-HDTH\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.AssemblyReference.cache
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03_HDTH.Form1.resources
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03_HDTH.Properties.Resources.resources
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.GenerateResource.cache
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.CoreCompileInputs.cache
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.csproj.Up2Date
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.exe
+D:\Desktop thực hành\Lab03\Lab03-HDTH\obj\Debug\Lab03-HDTH.pdb
